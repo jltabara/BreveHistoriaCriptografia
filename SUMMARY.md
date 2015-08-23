@@ -12,6 +12,6 @@
 * [Cardano](Cripto09.md)
 * [Della Porta](Cripto10.md)
 * [Alberti](Cripto11.md)
-* Vinegère y sus variantes
+* [Vinegère y sus variantes](Cripto12.md)
 * Edgar Allan Poe
 
