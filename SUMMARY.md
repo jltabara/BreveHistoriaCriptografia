@@ -10,4 +10,5 @@
 * El análisis de frecuencias
 * La cifra general
 * Cardano
+* Della Porta
 
