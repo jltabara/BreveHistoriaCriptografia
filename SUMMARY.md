@@ -3,5 +3,5 @@
 * [Resumen](README.md)
 * Introducción
 * Herodoto
-* Introducción
+* La escítala
 
