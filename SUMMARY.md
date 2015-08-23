@@ -12,4 +12,5 @@
 * Cardano
 * Della Porta
 * Alberti
+* Vinegère y sus variantes
 
