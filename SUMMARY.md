@@ -8,7 +8,7 @@
 * [Los hebreos](Cripto05.md)
 * [Julio César](Cripto06.md)
 * [El análisis de frecuencias](Cripto07.md)
-* La cifra general
+* [La cifra general](Cripto08.md)
 * Cardano
 * Della Porta
 * Alberti
