@@ -13,4 +13,5 @@
 * Della Porta
 * Alberti
 * Vinegère y sus variantes
+* Edgar Allan Poe
 
