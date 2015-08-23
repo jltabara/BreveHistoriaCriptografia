@@ -1,5 +1,4 @@
 # Glossary
 
-## criptografía
-
-Arte de escribir
+## Criptografía
+Arte de escribir con clave secreta o de un modo enigmático
