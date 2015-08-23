@@ -3,7 +3,7 @@
 * [Resumen](README.md)
 * [Introducción](Cripto01.md)
 * [Herodoto](Cripto02.md)
-* La escítala
+* [La escítala](Cripto03.md)
 * Polibio
 * Los hebreos
 * Julio César
