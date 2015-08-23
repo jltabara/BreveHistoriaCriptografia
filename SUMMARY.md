@@ -4,7 +4,7 @@
 * [Introducción](Cripto01.md)
 * [Herodoto](Cripto02.md)
 * [La escítala](Cripto03.md)
-* Polibio
+* [Polibio](Cripto04.md)
 * Los hebreos
 * Julio César
 * El análisis de frecuencias
