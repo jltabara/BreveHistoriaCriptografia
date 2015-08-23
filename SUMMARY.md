@@ -13,5 +13,6 @@
 * [Della Porta](Cripto10.md)
 * [Alberti](Cripto11.md)
 * [Vinegère y sus variantes](Cripto12.md)
-* [Edgar Allan Poe](Cripto13.md)
-
+* [Edgar Allan Poe](Cripto113.md)
+* [Playfair] (Cripot14.md)
+* [Bibliografía](Cripto15.md)
