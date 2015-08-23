@@ -1,7 +1,7 @@
 # Summary
 
 * [Resumen](README.md)
-* Introducción
+* [Introducción](Cripto01.md)
 * Herodoto
 * La escítala
 * Polibio
