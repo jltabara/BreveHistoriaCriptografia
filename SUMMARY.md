@@ -9,7 +9,7 @@
 * [Julio César](Cripto06.md)
 * [El análisis de frecuencias](Cripto07.md)
 * [La cifra general](Cripto08.md)
-* Cardano
+* [Cardano](Cripto09.md)
 * Della Porta
 * Alberti
 * Vinegère y sus variantes
