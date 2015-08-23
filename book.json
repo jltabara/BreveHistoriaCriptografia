@@ -1,9 +1,4 @@
-{
-    "plugins": [
-        "Katex"
-    ],
-    "pluginsConfig": {}
-}
+{ "plugins": ["mathjax"] }
 
 {
     "structure": {
