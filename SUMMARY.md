@@ -11,6 +11,4 @@
 * La cifra general
 * Cardano
 * Della Porta
-* Alberti
-   * Vinegère y sus variantes
 
