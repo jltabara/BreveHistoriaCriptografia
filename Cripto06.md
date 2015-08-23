@@ -42,7 +42,7 @@ En este caso nos hemos desplazado 3 letras hacia la derecha.  Podríamos tomar o
 
 Si sabemos que un texto está cifrado con el método de César, para criptoanalizarlo debemos escribir, como mucho, 26 mensajes, desplazando en cada mensaje un número de letras.  Alguno de estos 26 mensajes es el texto en claro.  Este método de escribir todos los posibles textos en claro asociados al texto cifrado se conoce como *ataque por fuerza bruta*.  
 
-A nivel matemático, el cifrado de César se entiende perfectamente trabajando en el grupo aditivo $\mathbb{Z*_{26*$. Si en el texto claro la letra tiene asignado un número $i$, la letra cifrada tiene asignado el número $i+3$, donde la suma se realiza modularmente (por ejemplo $25+3=2$).
+A nivel matemático, el cifrado de César se entiende perfectamente trabajando en el grupo aditivo $\mathbb{Z}_{26}$. Si en el texto claro la letra tiene asignado un número $i$, la letra cifrada tiene asignado el número $i+3$, donde la suma se realiza modularmente (por ejemplo $25+3=2$).
 
 Como vemos, criptoanalizar el cifrado de César es sencillo.  Los criptógrafos han tenido que inventar  métodos que generalicen el empleado directamente por César.  Uno de ellos es el *cifrado de César con clave*.  Para ello tomamos una palabra o frase arbitraria.  A la letra $a$ le asignamos la primera letra de la palabra clave.  A la $b$ le asignamos la segunda letra de la clave, a no ser que ésta coincida con la primera letra de la clave, en cuyo paso nos pasamos a la tercera y así sucesivamente.  Cuando terminemos con las letras de la clave, empezamos a colocar el resto de las letras en orden alfabético.  Lo mejor para comprenderlo es un ejemplo.  Tomemos como frase clave "elcesar". El alfabeto cifrado es entonces
 
