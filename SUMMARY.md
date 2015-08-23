@@ -6,7 +6,7 @@
 * [La escítala](Cripto03.md)
 * [Polibio](Cripto04.md)
 * [Los hebreos](Cripto05.md)
-* Julio César
+* [Julio César](Cripto06.md)
 * El análisis de frecuencias
 * La cifra general
 * Cardano
