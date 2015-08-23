@@ -4,3 +4,9 @@
     ],
     "pluginsConfig": {}
 }
+
+{
+    "structure": {
+        "readme": "Cripto01.md"
+    }
+}
