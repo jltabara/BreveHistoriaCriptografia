@@ -11,7 +11,7 @@
 * [La cifra general](Cripto08.md)
 * [Cardano](Cripto09.md)
 * [Della Porta](Cripto10.md)
-* Alberti
+* [Alberti](Cripto11.md)
 * Vinegère y sus variantes
 * Edgar Allan Poe
 
