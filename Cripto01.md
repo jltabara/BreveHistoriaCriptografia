@@ -1,0 +1,23 @@
+## Introducción
+
+Una acción muy común en el día de hoy consiste en encender un móvil.  Nada más encenderlo, el teléfono nos solicita un número de cuatro dígitos, que llamamos *pin*. Inmediatamente introducimos los cuatro números y el teléfono es plenamente operativo.  Si por una desgraciada casualidad nos roban el móvil, y lo tenemos apagado, estamos seguros de que el ladrón no podrá realizar llamadas con él, puesto que necesita una contraseña, que solamente  nosotros conocemos.  Además, hemos seguido las indicaciones que nos han dado y no hemos escrito la clave en ningún lugar de los papeles que llevabamos en la cartera, que por cierto también nos  han robado.  Cual sería nuestra sorpresa si nos dijeran que nuestro número *pin* está escrito en el propio teléfono.  Más concretamente en una tarjetita que todo el mundo conoce como  SIM.  Si el ladrón es un poco espabilado, abrirá el móvil, extraerá nuestra tarjeta SIM y leerá nuestra clave.  Tenemos un problema.
+
+Sin embargo la criptografía ha venido en nuestra ayuda.  Es cierto que la clave está escrita en nuestra tarjeta SIM, pero está codificada.  Aunque nuestro ladrón sea capaz de leerla no se enterará de nada.  Es como si estuviese escrita en un idioma que el ladrón no conoce. 
+
+Pero ¿quien es el personaje que nos ha salvado? Según el diccionario de la Real Academia, la criptografía es el
+
+> Arte de escribir con clave secreta o de un modo enigmático
+
+
+Desde el punto de vista etimológico esta definición  es perfecta, puesto que criptografía deriva del griego  *kriptos* (oculto) y *graphein* (escribir).  Sin embargo esta definición no es del todo adecuada en el  momento actual.  Es cierto que a lo largo de la historia todos los criptógrafos tenían una parte de artistas. Pero hoy en día es más adecuado considerar a la criptografía como una ciencia y no como un arte. 
+
+Como ciencia, la criptografía es un poco difícil de encuadrar.  Por una parte se considera que la criptografía es una parte de las matemáticas, pues son éstas las que nos permiten crear los algoritmos de codificación y de decodificación. En la criptografía clásica, los algoritmos empleados utilizaban únicamente matemática elemental. Incluso sin ningún conocimiento matemático se puede entender y utilizar este tipo de criptografía. Sin embargo, en muchos de los nuevos métodos, los conceptos y métodos matemáticos utilizados son de un alto nivel.
+
+Pero por otra parte, en la actualidad, no se puede separar a la criptografía de su uso en el mundo de los ordenadores.  De esta forma también se puede considerar que la criptografía es una parte de la informática. Es más, al menos en España, la asignatura de *Criptografía* se imparte sobre todo carreras relacionadas con la Informática.
+
+A nivel elemental, podemos decir que la criptografía se ocupa  de los métodos  para  escribir mensajes de algún modo que resulte difícil de leer para cualquier persona que intercepte nuestra información.  También se ocupa de los métodos  para  leer el galimatías que hemos escrito, puesto que  si no somos capaces de releer lo que hemos codificado, la criptografía sería una ciencia inútil.
+
+Muy relacionado con la ciencia de la criptografía se halla otra ciencia: el *criptoanálisis*.  Si el enemigo intercepta nuestra información, desea poder leerla.  El criptoanálisis se ocupa de los métodos  de descifrado sin el conocimiento de la clave que se ha empleado para cifrar.  A lo largo de la historia, siempre que se ha inventado un nuevo método de codificación, los criptoanalistas del bando rival han intentado "romper" el método de cifrado.  Muchas batallas, e incluso guerras, se ganaron gracias a la labor de los criptoanalistas.
+
+A lo largo de la historia, y hasta bien entrado el siglo *XX* la criptografía era principalmente utilizada en los ámbitos diplomático y militar.  El uso habitual de los ordenadores y la gran cantidad de información han hecho que la criptografía amplíe sus horizontes.  Prácticamente cualquier empresa de tamaño medio se ve obligada a  utilizar criptografía para proteger su información.  En caso de no usarla puede ser objeto de espionaje industrial.  Son famosos los ataques de hackers a todo tipo de ordenadores, incluyendo los de "empresas" tan grandes como el mismo Pentágono. Incluso el usuario de a pie  usaría mucha más criptografía si fuera consciente de los ataques que recibe a diario su ordenador con ánimo de extraer información.
+
