@@ -5,7 +5,7 @@
 * [Herodoto](Cripto02.md)
 * [La escítala](Cripto03.md)
 * [Polibio](Cripto04.md)
-* Los hebreos
+* [Los hebreos](Cripto05.md)
 * Julio César
 * El análisis de frecuencias
 * La cifra general
