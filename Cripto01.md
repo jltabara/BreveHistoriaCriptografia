@@ -3,7 +3,6 @@
 Una acción muy común en el día de hoy consiste en encender un móvil.  Nada más encenderlo, el teléfono nos solicita un número de cuatro dígitos, que llamamos *pin*. Inmediatamente introducimos los cuatro números y el teléfono es plenamente operativo.  Si por una desgraciada casualidad nos roban el móvil, y lo tenemos apagado, estamos seguros de que el ladrón no podrá realizar llamadas con él, puesto que necesita una contraseña, que solamente  nosotros conocemos.  Además, hemos seguido las indicaciones que nos han dado y no hemos escrito la clave en ningún lugar de los papeles que llevabamos en la cartera, que por cierto también nos  han robado.  Cual sería nuestra sorpresa si nos dijeran que nuestro número *pin* está escrito en el propio teléfono.  Más concretamente en una tarjetita que todo el mundo conoce como  SIM.  Si el ladrón es un poco espabilado, abrirá el móvil, extraerá nuestra tarjeta SIM y leerá nuestra clave.  Tenemos un problema.
 
 Sin embargo la criptografía ha venido en nuestra ayuda.  Es cierto que la clave está escrita en nuestra tarjeta SIM, pero está codificada.  Aunque nuestro ladrón sea capaz de leerla no se enterará de nada.  Es como si estuviese escrita en un idioma que el ladrón no conoce. 
-
 Pero ¿quien es el personaje que nos ha salvado? Según el diccionario de la Real Academia, la criptografía es el
 
 > Arte de escribir con clave secreta o de un modo enigmático
