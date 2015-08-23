@@ -1,13 +1,1 @@
 { "plugins": ["mathjax"] }
-
-{
-    "structure": {
-        "readme": "Cripto01.md"
-    }
-}
-
-{ "title": "Criptografia Clasica" }
-
-{ "description": "This is such a great book!" }
-
-{ "language": "es" }
