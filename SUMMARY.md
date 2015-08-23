@@ -1,7 +1,7 @@
 # Summary
 
 * [Resumen](README.md)
-* Herodoto
+* Introducción
 * La escítala
 * Introducción
 
