@@ -2,7 +2,7 @@
 
 * [Resumen](README.md)
 * [Introducción](Cripto01.md)
-* Herodoto
+* [Herodoto](Cripto02.md)
 * La escítala
 * Polibio
 * Los hebreos
