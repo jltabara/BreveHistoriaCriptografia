@@ -15,12 +15,12 @@ En el mismo libro también nos habla Suetonio de la relación de otro emperador,
 
 Despues de leer a Suetonio tenemos claro como cifraba César.  Utilizaba un método de sustitución que consistía en cambiar cada letra, por otra situada tres lugares más adelante.  A las tres últimas letras le hace corresponder las tres primeras del alfabeto. En el idioma castellano, el alfabeto cifrado es
 
->|   |   |   |   |   |   |   |   |   |   |   |   |   | 
+|   |   |   |   |   |   |   |   |   |   |   |   |   | 
  | - | - | - | - | - | - | - | - | - | - | - | - | - | 
  | a | b | c | d | e | f | g | h | i | j | k | l | m |
  | D | E | F | G | H | I | J | K | L | M | N | O | P |
 	
->|   |   |   |   |   |   |   |   |   |   |   |   |   | 
+|   |   |   |   |   |   |   |   |   |   |   |   |   | 
  | - | - | - | - | - | - | - | - | - | - | - | - | - | 
  | n | o | p | q | r | s | t | u | v | w | x | y | z |
  | Q | R | S | T | U | V | W | X | Y | Z | A | B | C |
@@ -43,7 +43,7 @@ A nivel matemático, el cifrado de César se entiende perfectamente trabajando e
 
 Como vemos, criptoanalizar el cifrado de César es sencillo.  Los criptógrafos han tenido que inventar  métodos que generalicen el empleado directamente por César.  Uno de ellos es el *cifrado de César con clave*.  Para ello tomamos una palabra o frase arbitraria.  A la letra `a` le asignamos la primera letra de la palabra clave.  A la `b` le asignamos la segunda letra de la clave, a no ser que ésta coincida con la primera letra de la clave, en cuyo paso nos pasamos a la tercera y así sucesivamente.  Cuando terminemos con las letras de la clave, empezamos a colocar el resto de las letras en orden alfabético.  Lo mejor para comprenderlo es un ejemplo.  Tomemos como frase clave "elcesar". El alfabeto cifrado es entonces
 
->|  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | - | - | - |- | - | - | -| - | - | - |- | - | 
 |*Alfabeto claro*:|a|b|c|d|e|f|g|h|i|j|...|
 |*Alfabeto cifrado*:|E|L|C|S|A|R|B|D|F|G|....|
