@@ -24,7 +24,7 @@ Los métodos de sustitución se basan en asignar a  cada letra otro ente, que pu
 |E    | v   | w   | x  | y  | z   |			
 
 
-La letra `a` se cifrará como `AA`, la `b` como `AB`,...  Hemos eliminado la letra `q`, lo cual no redunda en el contenido del mensaje, siempre que sustituyamos dicha letra por la `k`.  Tampoco hemos incorporado la ñ pues nuestra querida letra se suele llevar mal con los ordenadores.
+La letra *a* se cifrará como *AA*, la *b* como *AB*,...  Hemos eliminado la letra *q*, lo cual no redunda en el contenido del mensaje, siempre que sustituyamos dicha letra por la *k*.  Tampoco hemos incorporado la *ñ* pues nuestra querida letra se suele llevar mal con los ordenadores.
 
 > *Texto claro*: cifradepolibio
 
@@ -50,13 +50,13 @@ Para traducir matemáticamente el cifrador de Polibio, escribimos la tabla con n
 a = 0, b = 1, c= 2, ...
 ```
 
-Observamos que el  número que le asigna la tabla de Polibio a cada letra es precisamente el número de la letra escrito en base 5. Luego el cifrador de Polibio, en su versión númerica, consiste en traducir los números  a base 5.  Debemos tener cuidado, pues si queremos, por ejemplo, escribir el número cuatro en base cinco, lo debemos escribir como `04`.
+Observamos que el  número que le asigna la tabla de Polibio a cada letra es precisamente el número de la letra escrito en base 5. Luego el cifrador de Polibio, en su versión númerica, consiste en traducir los números  a base 5.  Debemos tener cuidado, pues si queremos, por ejemplo, escribir el número cuatro en base cinco, lo debemos escribir como *04*.
 
 
-Polibio utilizo la base 5 debido a que era el cuadrado que mejor se adaptaba a su alfabeto.  En un lenguaje donde el alfabeto tuviera 98 letras distintas, deberíamos elegir una tabla de de 10 por 10.
+Polibio utilizo la base 5 debido a que era el cuadrado que mejor se adaptaba a su alfabeto.  En un lenguaje donde el alfabeto tuviera 98 letras distintas, deberíamos elegir una tabla de 10 por 10.
 
 
-Un método similar al de Polibio fue propuesto por el filósofo inglés del siglo *XVI* Francis Bacon. En el método de Bacon, a cada letra del alfabeto se le asocia una secuencia de cinco letras, siendo estas letras únicamente la `A` y la `B`. La asociación comienza así:
+Un método similar al de Polibio fue propuesto por el filósofo inglés del siglo *XVI* Francis Bacon. En el método de Bacon, a cada letra del alfabeto se le asocia una secuencia de cinco letras, siendo estas letras únicamente la *A* y la *B*. La asociación comienza así:
 
 ```
 a = AAAAA, b = AAAAB, c = AAABA, d = AAABB, ...
@@ -65,7 +65,7 @@ a = AAAAA, b = AAAAB, c = AAABA, d = AAABB, ...
 ![](imagenes/bacon.jpg)
 
 
-Si sustituimos la A por cero y la B por uno, observamos que lo único que hacemos es escribir cada letra en lenguaje binario.  Como la quinta potencia de 2 es 32, existen suficientes símbolos para codificar todas las letras, incluso en castellano. Aun así nos sobran símbolos que podemos utilizar para otros menesteres.
+Si sustituimos la *A* por cero y la *B* por uno, observamos que lo único que hacemos es escribir cada letra en lenguaje binario.  Como la quinta potencia de 2 es 32, existen suficientes símbolos para codificar todas las letras, incluso en castellano. Aun así nos sobran símbolos que podemos utilizar para otros menesteres.
 
 
 > *Texto claro*: bacon

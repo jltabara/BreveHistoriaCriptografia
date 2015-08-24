@@ -45,7 +45,7 @@ Otra variante del cifrado de Vigenère es el *cifrado Gronsfeld*.  Este cifrado 
 
 > *Texto cifrado*: **LRKAIHYGLXGTVTAOENK**
 
-El  almirante inglés Sir Francis Beaufort inventó otro cifrado que utiliza también la tabla de Vigenère y una palabra clave. Pero el *cifrado de Beaufort* emplea un método de codificación es ligeramente distinto. Imaginemos que la clave es BEAUFORT y que el texto a cifrar es "estemetodoesunavariante". Tomamos la primera letra del texto claro, la `e` y calculamos su número asociado. A la letra `e` le corresponde el 4. Entonces restamos 4 a la primera letra de la clave.  Resulta que `b - 4 = X`. Seguimos el mismo procedimiento con el resto de las letras.
+El  almirante inglés Sir Francis Beaufort inventó otro cifrado que utiliza también la tabla de Vigenère y una palabra clave. Pero el *cifrado de Beaufort* emplea un método de codificación es ligeramente distinto. Imaginemos que la clave es BEAUFORT y que el texto a cifrar es "estemetodoesunavariante". Tomamos la primera letra del texto claro, la *e* y calculamos su número asociado. A la letra *e* le corresponde el 4. Entonces restamos 4 a la primera letra de la clave.  Resulta que *b - 4 = X*. Seguimos el mismo procedimiento con el resto de las letras.
 
 Descrito de este modo matemático, el método de Beaufort parece de una gran complicación.  Sin embargo, existe un método más intuitivo para realizar este cifrado.  Tomamos la primera letra del mensaje en la primera fila.  Bajamos por la columna de dicha letra hasta encontrar la letra de la clave que le corresponde. Después nos desplazamos por la línea de la letra clave hasta su comienzo y esa es precisamente la letra que le asigna el método de Beaufort.
 

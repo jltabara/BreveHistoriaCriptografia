@@ -7,7 +7,7 @@ La cábala judía asocia a cada letra del alfabeto hebreo un número. Manipuland
 
 El pueblo judio siempre ha sido amigo de este tipo de estudios que rayan con lo esotérico.  Empleaban también en sus escritos distintos  métodos criptográficos, pero más como un medio de dar un aura de misticismo, que con el proposito de ocultar información.  De todos los métodos que empleaban el más conocido es el *atbash*, ya que aparece en la biblia, en concreto en el libro de Jeremías, donde el nombre de la ciudad de Babel se codifica como Sesac (se debe tener en cuenta que en hebreo antiguo no se escribían las vocales)
 
-El *atbash* sustituye la primera letra del alfabeto por la última, la segunda por la penúltima y así sucesivamente.  Empleando un alfabeto latino de 26 letras (quitamos la ñ), podemos poner un
+El *atbash* sustituye la primera letra del alfabeto por la última, la segunda por la penúltima y así sucesivamente.  Empleando un alfabeto latino de 26 letras (quitamos la *ñ*), podemos poner un ejemplo.
 
 > *Texto llano*: elcodigodelabiblia
 

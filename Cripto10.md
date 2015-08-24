@@ -5,9 +5,9 @@ Giovanni Battista Della Porta  es un famoso científico italiano.  En el ámbito
 
 ![](imagenes/alfabetodellaporta.jpg)
 	
-Para la explicación del método utilizaremos los alfabetos originales. Supongamos que la palabra clave es PORTA.  Si queremos cifrar cualquier mensaje la primera letra del mensaje está asociada a la letra clave `P`, la segunda a la `O`,... La sexta vuelve a estar asociada a la `P`.
+Para la explicación del método utilizaremos los alfabetos originales. Supongamos que la palabra clave es PORTA.  Si queremos cifrar cualquier mensaje la primera letra del mensaje está asociada a la letra clave *P*, la segunda a la *O*,... La sexta vuelve a estar asociada a la *P*.
 
-Cada alfabeto tiene dos letras que le dan nombre.  Si la letra clave es `P`, utilizamos para cifrar el alfabeto que tiene la letra `P` en su nombre (en nuestro caso es el séptimo alfabeto).  Cada letra de la primera fila la sustituimos por la letra que tiene debajo en dicho alfabeto.  Si la letra que queremos codificar se encuentra en la segunda linea la sustituimos por la letra que se encuentra encima. Por una casualidad el alfabeto asociado a la `O` vuelve a ser el mismo, pero ya el asociado a la `R` es distinto (es el octavo).
+Cada alfabeto tiene dos letras que le dan nombre.  Si la letra clave es *P*, utilizamos para cifrar el alfabeto que tiene la letra *P* en su nombre (en nuestro caso es el séptimo alfabeto).  Cada letra de la primera fila la sustituimos por la letra que tiene debajo en dicho alfabeto.  Si la letra que queremos codificar se encuentra en la segunda linea la sustituimos por la letra que se encuentra encima. Por una casualidad el alfabeto asociado a la *O* vuelve a ser el mismo, pero ya el asociado a la *R* es distinto (es el octavo).
 
 
 > *Texto llano*: lacifradeporta
