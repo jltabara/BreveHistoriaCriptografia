@@ -39,7 +39,7 @@ En este caso nos hemos desplazado 3 letras hacia la derecha.  Podríamos tomar o
 
 Si sabemos que un texto está cifrado con el método de César, para criptoanalizarlo debemos escribir, como mucho, 26 mensajes, desplazando en cada mensaje un número de letras.  Alguno de estos 26 mensajes es el texto en claro.  Este método de escribir todos los posibles textos en claro asociados al texto cifrado se conoce como *ataque por fuerza bruta*.  
 
-A nivel matemático, el cifrado de César se entiende perfectamente trabajando en el grupo aditivo {%\mathbb{Z}_{26}%}. Si en el texto claro la letra tiene asignado un número *i*, la letra cifrada tiene asignado el número *i + 3*, donde la suma se realiza modularmente (por ejemplo *25 + 3 = 2*).
+A nivel matemático, el cifrado de César se entiende perfectamente trabajando en el grupo aditivo de los enteros módulo 26. Si en el texto claro la letra tiene asignado un número *i*, la letra cifrada tiene asignado el número *i + 3*, donde la suma se realiza modularmente (por ejemplo *25 + 3 = 2*).
 
 Como vemos, criptoanalizar el cifrado de César es sencillo.  Los criptógrafos han tenido que inventar  métodos que generalicen el empleado directamente por César.  Uno de ellos es el *cifrado de César con clave*.  Para ello tomamos una palabra o frase arbitraria.  A la letra *a* le asignamos la primera letra de la palabra clave.  A la *b* le asignamos la segunda letra de la clave, a no ser que ésta coincida con la primera letra de la clave, en cuyo paso nos pasamos a la tercera y así sucesivamente.  Cuando terminemos con las letras de la clave, empezamos a colocar el resto de las letras en orden alfabético.  Lo mejor para comprenderlo es un ejemplo.  Tomemos como frase clave "elcesar". El alfabeto cifrado es entonces
 
@@ -54,7 +54,7 @@ También podemos colocar la frase clave *k* lugares a la derecha, sobre todo si 
 
 El método de César más general es aquel en el que efectuamos una permutación arbitraria de las 26 letras del alfabeto.  Como existen *26!* permutaciones distintas de un conjunto de 26 elementos, existen una gran cantidad de cifras distintas.  Si para cifrar utilizamos una permutación &sigma;, para descifrar el mensaje debemos utilizar la permutación inversa.
 
-Para criptoanalizar un texto cifrado por el método de la fuerza bruta debemos escribir *26!* textos distintos (uno para cada permutación) y de esa manera estamos seguros que alguno de los textos es el mensaje en claro.  Este método es inviable en la práctica, puesto  *26!* es del orden de {%10^{27}%}, que es un número enorme.
+Para criptoanalizar un texto cifrado por el método de la fuerza bruta debemos escribir *26!* textos distintos (uno para cada permutación) y de esa manera estamos seguros que alguno de los textos es el mensaje en claro.  Este método es inviable en la práctica, puesto  *26!* es del orden de 10 elevado a 27, que es un número enorme.
 
 Durante muchos siglos la cifra de César con clave resistió ante los criptoanalistas.  Debemos esperar al apogeo de la cultura árabe en la que el matemático *Al Kindi* inventa el método del *análisis de frecuencias*, con el que es relativamente sencillo resolver el problema.
 
