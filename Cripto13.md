@@ -10,23 +10,23 @@ Sin embargo mucho menos conocida es la pasión de Poe por la criptografía. Dura
 Pero si Poe aparece en nuestra historia no es por ser un criptoanalista excepcional, sino por haber escrito *El escarabajo de oro*.  Este libro puede encuadrarse hoy  en día en la literatura juvenil y  su trama se basa en la busqueda del tesoro del pirata Kidd.  Si Kidd hubiese sido como todos los piratas, hubiera dibujado un *mapa del tesoro*. Pero el "retorcido"  Kidd dejó indicada la posición de su tesoro en un criptograma, que el protagonista, Legrand, descifra utilizando el análisis de frecuencias. Muchos jovenes, y no tan jovenes, se sienten atraidos hacia la  criptografía por la lectura de este libro. Veamos unos pasajes de este libro que nos ilustren.
 
 
-> - Y el caso -dijo Legrand- que la solución no resulta tan difícil como cabe imaginarla tras del primer
+> &mdash; Y el caso &mdash;dijo Legrand&mdash; que la solución no resulta tan difícil como cabe imaginarla tras del primer
 examen apresurado de los caracteres. Estos caracteres, según pueden todos adivinarlo fácilmente forman
 una cifra, es decir, contienen un significado pero por lo que sabemos de Kidd, no podía suponerle capaz de
 construir una de las más abstrusas criptografías. Pensé, pues, lo primero, que ésta era de una clase sencilla,
 aunque tal, sin embargo, que pareciese absolutamente indescifrable para la tosca inteligencia del marinero,
 sin la clave.
 
-> - ¿Y la resolvió usted, en verdad?
+> &mdash; ¿Y la resolvió usted, en verdad?
 
-> - Fácilmente; había yo resuelto otras diez mil veces más complicadas. Las circunstancias y cierta
+> &mdash; Fácilmente; había yo resuelto otras diez mil veces más complicadas. Las circunstancias y cierta
 predisposición mental me han llevado a interesarme por tales acertijos, y es, en realidad, dudoso que el
 genio humano pueda crear un enigma de ese género que el mismo ingenio humano no resuelva con una
 aplicación adecuada. En efecto, una vez que logré descubrir una serie de caracteres visibles, no me
 preocupó apenas la simple dificultad de desarrollar su significación.
 
 
-> En el presente caso -y realmente en todos los casos de escritura secreta- la primera cuestión se refiere al
+> En el presente caso &mdash;y realmente en todos los casos de escritura secreta&mdash; la primera cuestión se refiere al
 lenguaje de la cifra, pues los principios de solución, en particular tratándose de las cifras más sencillas,
 dependen del genio peculiar de cada idioma y pueden ser modificadas por éste. En general, no hay otro
 medio para conseguir la solución que ensayar (guiándose por las probabilidades) todas las lenguas que os
