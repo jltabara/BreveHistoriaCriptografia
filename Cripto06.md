@@ -60,3 +60,13 @@ El método de César más general es aquel en el que efectuamos una permutación
 Para criptoanalizar un texto cifrado por el método de la fuerza bruta debemos escribir $26!$ textos distintos (uno para cada permutación) y de esa manera estamos seguros que alguno de los textos es el mensaje en claro.  Este método es inviable en la práctica, puesto  $26!$ es del orden de $10^{27}*$, que es un número enorme.
 
 Durante muchos siglos la cifra de César con clave resistió ante los criptoanalistas.  Debemos esperar al apogeo de la cultura árabe en la que el matemático *Al Kindi* inventa el método del *análisis de frecuencias*, con el que es relativamente sencillo resolver el problema.
+
+>|   |   |   |   |   |   |   |   |   |   |   |   |   | 
+ | - | - | - | - | - | - | - | - | - | - | - | - | - | 
+ | a | b | c | d | e | f | g | h | i | j | k | l | m |
+ | D | E | F | G | H | I | J | K | L | M | N | O | P |
+	
+>|   |   |   |   |   |   |   |   |   |   |   |   |   | 
+ | - | - | - | - | - | - | - | - | - | - | - | - | - | 
+ | n | o | p | q | r | s | t | u | v | w | x | y | z |
+ | Q | R | S | T | U | V | W | X | Y | Z | A | B | C |
