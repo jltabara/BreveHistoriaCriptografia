@@ -13,9 +13,9 @@ $$
 x^3+px+q=0
 $$
 
-que hoy se llaman *reducidas*.  Durante su vida no confesó su secreto a nadie, pero en el lecho de muerte, le transmitió su sabiduría a su discípulo Antonio Fiore. Nicolo Fontana, más conocido como Tartaglia, se vanarogliaba  de ser un gran matemático (y en efecto lo era). Hubo un reto público entre Fiore y Tartaglia.  Cada uno enviaría 30 problemas al otro.  El perdedor debía pagar una cena al vencedor y a tantos invitados como problemas hubiera resuelto el campeón.  Todos los problemas  propuestos por Fiore se basaban en la ecuación de tercer grado.   Tras un duro trabajo, la noche antes de finalizar el plazo, en un momento de inspiración, Tartaglia descubre el método que resuelve la ecuación cúbica reducida.  Esa misma noche resuelve los 30 problemas.  En cambio Fiore no resolvió prácticamente ninguno de los propuestos por Tartaglia, que eran mucho más variados.
+que hoy se llaman *reducidas*.  Durante su vida no confesó su secreto a nadie, pero en el lecho de muerte, le transmitió su sabiduría a su discípulo Antonio Fiore. Nicolo Fontana, más conocido como *Tartaglia*, se vanarogliaba  de ser un gran matemático (y en efecto lo era). Hubo un reto público entre Fiore y Tartaglia.  Cada uno enviaría 30 problemas al otro.  El perdedor debía pagar una cena al vencedor y a tantos invitados como problemas hubiera resuelto el campeón.  Todos los problemas  propuestos por Fiore se basaban en la ecuación de tercer grado.   Tras un duro trabajo, la noche antes de finalizar el plazo, en un momento de inspiración, Tartaglia descubre el método que resuelve la ecuación cúbica reducida.  Esa misma noche resuelve los 30 problemas.  En cambio Fiore no resolvió prácticamente ninguno de los propuestos por Tartaglia, que eran mucho más variados.
 
-![](imagenes/cardanao.jpg)
+![](imagenes/cardano.jpg)
 
 Entretanto Cardano era ya un médico famoso.  Se entrevista con Tartaglia y le insta a que le revele el secreto de su fórmula, pues Cardano tiene intención de publicar un libro sobre álgebra y desea incluir el método de Tartaglia.  Aunque durante mucho tiempo Tartaglia se resiste, finalmente accede  a los ruegos de Cardano, pero bajo juramento de que no sea publicado ni comunicado a nadie. Este es un extracto del juramento de Cardano:
 

@@ -25,6 +25,7 @@ prevenir a su deudo que convenía rebelarse, y no hallando medio seguro para pos
 marcado en ella con los puntos y letras que le pareció, esperó después que le volvieran a crecer el cabello, y crecido ya, habíalo despachado a Mileto sin más recado que decirle de palabra que puesto en Mileto pidiera de su parte a Aristágoras que, cortándole
 a navaja el pelo, le mirara la cabeza. Las notas grabadas en ella significaban a Aristágoras, como dije, que se levantase contra el Persa. El motivo que para tal intento tuvo Histieo, parte nacía de la pesadumbre gravísima que su arresto en Susa le ocasionaba, parte también de la esperanza con que se lisonjeaba de que en caso de tal rebelión sería  enviado a las provincias marítimas, estando al mismo  tiempo convencido de que a menos que se rebelara Mileto, nunca más tendría la fortuna de volver a verla. Con estas miras despachó Histieo a dicho  mensajero.
 
+
 ![](imagenes/herodoto.jpg)
 
 En la actualidad estas ocurrencias de los griegos no están consideradas como verdadera criptografía, puesto que el mensaje que enviaban no estaba codificado de ninguna manera.  Solamente utilizaron su imaginación para esconderlo de los posibles enemigos.  El arte o ciencia de ocultar mensajes se conoce como *esteganografia*, derivada del vocablo  griego *esteganos*, que significa cubrir. Esta palabra, como muchas otras utilizadas en criptografía, no está aun recogida en el diccionario de la Real Academia. 
