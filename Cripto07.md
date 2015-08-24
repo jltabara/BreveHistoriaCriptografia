@@ -1,11 +1,11 @@
 
 ## El análisis de frecuencias
 
-Hasta ahora todos los métodos de cifrado que hemos analizado eran de tipo *monoalfabético*.  En estos métodos tenemos dos alfabetos: uno que se emplea en el texto claro y otro que se emplea en el criptograma.  En muchas ocasiones ambos alfabetos coinciden. Lo que caracteriza a los métodos de cifrado monoalfabéticos es que el símbolo asociado a un determinada letra no cambia en toda la extensión del criptograma.  Por ejemplo, si ciframos la letra $a$ utilizando la letra $H$, en todo el criptograma, debemos sustituir $a$ por $H$.
+Hasta ahora todos los métodos de cifrado que hemos analizado eran de tipo *monoalfabético*.  En estos métodos tenemos dos alfabetos: uno que se emplea en el texto claro y otro que se emplea en el criptograma.  En muchas ocasiones ambos alfabetos coinciden. Lo que caracteriza a los métodos de cifrado monoalfabéticos es que el símbolo asociado a un determinada letra no cambia en toda la extensión del criptograma.  Por ejemplo, si ciframos la letra `a` utilizando la letra `H`, en todo el criptograma, debemos sustituir `a` por `H`.
 
 ![](imagenes/al-Kindi.jpg)
 
-Hasta bien entrada la Edad Media estos métodos se consideraban suficientemente seguros. Pero en el siglo *ix* un matemático árabe, que trabajaba en la *Casa de la Sabiduria* de Bagdag, escribe un libro, *Manuscrito sobre el desciframiento de mensajes criptográficos*. El nombre de este árabe es ni más ni menos que *Abu Yusuf Yaqub ibn Ishaq al-Sabbah Al-Kindi*, pero nos referiremos a él simplemente como  Al-Kindi. En su libro describe un método, *el análisis de frecuencias*, que permite "romper" todos los cifrados monoalfabéticos. Dejemos que al-Kindi nos exponga someramente su método.
+Hasta bien entrada la Edad Media estos métodos se consideraban suficientemente seguros. Pero en el siglo *IX* un matemático árabe, que trabajaba en la *Casa de la Sabiduria* de Bagdag, escribe un libro, *Manuscrito sobre el desciframiento de mensajes criptográficos*. El nombre de este árabe es ni más ni menos que *Abu Yusuf Yaqub ibn Ishaq al-Sabbah Al-Kindi*, pero nos referiremos a él simplemente como  Al-Kindi. En su libro describe un método, *el análisis de frecuencias*, que permite "romper" todos los cifrados monoalfabéticos. Dejemos que al-Kindi nos exponga someramente su método.
 
 > Una manera de resolver un mensaje cifrado, si sabemos en qué lengua está escrito, es encontrar un texto claro diferente escrito en la misma lengua y que sea lo suficientemente largo para llenar alrededor de una hoja, y luego contar cuántas veces aparece cada letra.  A la letra que aparece con más frecuencia la llamamos "primera", a la siguiente en frecuencia la llamamos "segunda", a la siguiente "tercera", y así sucesivamente, hasta que hayamos cubierto todas las letras que aparecen en la muestra de texto claro.
 
@@ -20,19 +20,19 @@ La aplicación directa del método de Al-Kindi casi nunca descifra un criptogram
  
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
-	a| 10.60|j|0.25| r| 0.74
-	b|1.16|k|0.11| s|8.47
-	c|4.85|l|4.42|t|5,40
-	d|5.87|m|3.11|u|4,34
-	e|13.11|n|7.14|v|0.82
-	f|1.13|ñ|0.10|w|0.12
-	g|1.40| o|8.23|x|0.15
-	h|0.60|p|2.71|y|0.79
-	i|7.16|q|0.74|z|0.26
+|a| 10.60|j|0.25| r| 0.74|
+|b|1.16|k|0.11| s|8.47|
+|c|4.85|l|4.42|t|5,40|
+|d|5.87|m|3.11|u|4,34|
+|e|13.11|n|7.14|v|0.82|
+|f|1.13|ñ|0.10|w|0.12|
+|g|1.40| o|8.23|x|0.15|
+|h|0.60|p|2.71|y|0.79|
+|i|7.16|q|0.74|z|0.26|
 	
 
  
-El fallo más evidente del método de al-Kindi se tiene en la novela *La disparition* de Georges Perec.  Esta obra, escrita en francés, no emplea nunca la letra *e*, que es de las más corrientes en dicho idioma.
+El fallo más evidente del método de al-Kindi se tiene en la novela *La disparition* de Georges Perec.  Esta obra, escrita en francés, no emplea nunca la letra `e`, que es de las más corrientes en dicho idioma.
  
 Un ejemplo del método de análisis de frecuencias se puede encontrar en el libro de Edgar Allan Poe *El escarabajo de oro*. Aunque el libro puede encontrarse  en español, el criptograma que descifra su protagonista se encuentra en inglés.  
  
