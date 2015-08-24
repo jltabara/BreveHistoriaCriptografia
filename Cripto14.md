@@ -4,7 +4,7 @@ Aunque el método que vamos a comentar lleva el nombre de Playfair, en realidad 
 
 ![](imagenes/wheststone.jpg)
 
-Para cifrar con este método necesitamos una tabla cuadrada, en general de 5 por 5, donde se escriben al azar las 25 letras del alfabeto que vamos a utilizar.  También se puede completar el cuadro utilizando una clave.  Por ejemplo, la siguiente tabla se ha construido con la palabra clave *matematicas* (eliminamos las letras ñ y w)
+Para cifrar con este método necesitamos una tabla cuadrada, en general de 5 por 5, donde se escriben al azar las 25 letras del alfabeto que vamos a utilizar.  También se puede completar el cuadro utilizando una clave.  Por ejemplo, la siguiente tabla se ha construido con la palabra clave *matematicas* (eliminamos las letras *ñ* y *w*)
 
 |     |     |     |     |    |
 | --- | --- | --- | --- | ---|
