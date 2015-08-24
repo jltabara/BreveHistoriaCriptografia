@@ -12,7 +12,6 @@ Analicemos en detalle este método de cifrado, que consta de tres partes bien di
 
 ![](imagenes/silabario1.jpg)
 
-
 Se puede observar la gran simetría que presenta el silabario.  Cada parte de la sílaba se sustituye por un símbolo y la vocal que le acompaña es otro símbolo de menor tamaño. El símbolo de la vocal es siempre el mismo en todas las sílabas.  En la parte númerica se observa también un patrón fijo (por ejemplo, los números terminados en 3 y 8 están asociados a la letra $i$).
 
 - Un libro de  códigos que sustituía palabras enteras.  Eran palabras comunmente usadas en aquella época en los mensajes diplomáticos. En total el libro constaba de 385 palabras.
