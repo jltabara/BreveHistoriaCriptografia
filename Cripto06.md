@@ -44,15 +44,16 @@ A nivel matemático, el cifrado de César se entiende perfectamente trabajando e
 Como vemos, criptoanalizar el cifrado de César es sencillo.  Los criptógrafos han tenido que inventar  métodos que generalicen el empleado directamente por César.  Uno de ellos es el *cifrado de César con clave*.  Para ello tomamos una palabra o frase arbitraria.  A la letra `a` le asignamos la primera letra de la palabra clave.  A la `b` le asignamos la segunda letra de la clave, a no ser que ésta coincida con la primera letra de la clave, en cuyo paso nos pasamos a la tercera y así sucesivamente.  Cuando terminemos con las letras de la clave, empezamos a colocar el resto de las letras en orden alfabético.  Lo mejor para comprenderlo es un ejemplo.  Tomemos como frase clave "elcesar". El alfabeto cifrado es entonces
 
 >|  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- |--- | --- | --- | ---| --- | --- | --- |--- | --- | 
-		*Alfabeto claro*:|a|b|c|d|e|f|g|h|i|j|...
-		*Alfabeto cifrado*:|E|L|C|S|A|R|B|D|F|G|....
-			
+| - | - | - |- | - | - | -| - | - | - |- | - | 
+|*Alfabeto claro*:|a|b|c|d|e|f|g|h|i|j|...|
+|*Alfabeto cifrado*:|E|L|C|S|A|R|B|D|F|G|....
+
+
 También podemos colocar la frase clave `k` lugares a la derecha, sobre todo si observamos que alguna letra se codifica como ella misma.
 
 
 El método de César más general es aquel en el que efectuamos una permutación arbitraria de las 26 letras del alfabeto.  Como existen `26!` permutaciones distintas de un conjunto de 26 elementos, existen una gran cantidad de cifras distintas.  Si para cifrar utilizamos una permutación $\sigma$, para descifrar el mensaje debemos utilizar la permutación $\sigma^{-1}$.
 
-Para criptoanalizar un texto cifrado por el método de la fuerza bruta debemos escribir `26!` textos distintos (uno para cada permutación) y de esa manera estamos seguros que alguno de los textos es el mensaje en claro.  Este método es inviable en la práctica, puesto  `26!` es del orden de $10^{27}*$, que es un número enorme.
+Para criptoanalizar un texto cifrado por el método de la fuerza bruta debemos escribir `26!` textos distintos (uno para cada permutación) y de esa manera estamos seguros que alguno de los textos es el mensaje en claro.  Este método es inviable en la práctica, puesto  `26!` es del orden de $10^{27}$, que es un número enorme.
 
 Durante muchos siglos la cifra de César con clave resistió ante los criptoanalistas.  Debemos esperar al apogeo de la cultura árabe en la que el matemático *Al Kindi* inventa el método del *análisis de frecuencias*, con el que es relativamente sencillo resolver el problema.
