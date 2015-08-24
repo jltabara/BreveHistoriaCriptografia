@@ -8,7 +8,7 @@ Pero ¿quien es el personaje que nos ha salvado? Según el diccionario de la Rea
 > Arte de escribir con clave secreta o de un modo enigmático
 
 
-Desde el punto de vista etimológico esta definición  es perfecta, puesto que criptografía deriva del griego  *kriptos* (oculto) y *graphein* (escribir).  Sin embargo esta definición no es del todo adecuada en el  momento actual.  Es cierto que a lo largo de la historia todos los criptógrafos tenían una parte de artistas. Pero hoy en día es más adecuado considerar a la criptografía como una ciencia y no como un arte. 
+Desde el punto de vista etimológico esta definición  es perfecta, puesto que criptografía deriva del griego  *kriptos* (oculto) y *graphein* (escribir).  Sin embargo esta definición no es del todo adecuada en el  momento actual.  Es cierto que a lo largo de la historia todos los criptógrafos tenían una parte de artistas, pero hoy en día es más adecuado considerar a la criptografía como una ciencia y no como un arte. 
 
 Como ciencia, la criptografía es un poco difícil de encuadrar.  Por una parte se considera que la criptografía es una parte de las matemáticas, pues son éstas las que nos permiten crear los algoritmos de codificación y de decodificación. En la criptografía clásica, los algoritmos empleados utilizaban únicamente matemática elemental. Incluso sin ningún conocimiento matemático se puede entender y utilizar este tipo de criptografía. Sin embargo, en muchos de los nuevos métodos, los conceptos y métodos matemáticos utilizados son de un alto nivel.
 
