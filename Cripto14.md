@@ -6,14 +6,13 @@ Aunque el método que vamos a comentar lleva el nombre de Playfair, en realidad 
 
 Para cifrar con este método necesitamos una tabla cuadrada, en general de 5 por 5, donde se escriben al azar las 25 letras del alfabeto que vamos a utilizar.  También se puede completar el cuadro utilizando una clave.  Por ejemplo, la siguiente tabla se ha construido con la palabra clave *matematicas* (eliminamos las letrasñ y w)
 
-| | | | | | 
-| --- | --- | --- | --- | ----|
-m | a | t | e| i
-c| s | b | d| f 
-g| h|j|k|l
-n|o|p|q|r
-u|v|x|y|z
-		
+|     |     |     |     |    |
+| --- | --- | --- | --- | ---|
+| m | a | t | e | i |
+| c | s | b | d | f |  
+| g | h | j | k | l |
+| n | o | p | q | r |
+| u | v | x | y | z |
 
 El texto que vamos a cifrar lo agrupamos de dos letras en dos letras.  Cada pareja de letras se puede encuadrar en cada uno de los siguientes cuatro casos:
 
