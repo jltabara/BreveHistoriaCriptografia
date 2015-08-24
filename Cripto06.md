@@ -46,7 +46,7 @@ Como vemos, criptoanalizar el cifrado de César es sencillo.  Los criptógrafos 
 >|  |  |  |  |  |  |  |  |  |  |  |  |
 | - | - | - |- | - | - | -| - | - | - |- | - | 
 |*Alfabeto claro*:|a|b|c|d|e|f|g|h|i|j|...|
-|*Alfabeto cifrado*:|E|L|C|S|A|R|B|D|F|G|....
+|*Alfabeto cifrado*:|E|L|C|S|A|R|B|D|F|G|....|
 
 
 También podemos colocar la frase clave `k` lugares a la derecha, sobre todo si observamos que alguna letra se codifica como ella misma.
